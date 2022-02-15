@@ -1,1 +1,2 @@
 # cognizance
+GIT COMMANDS
